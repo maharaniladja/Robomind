@@ -1,2 +1,2 @@
-# RoboMind-Task-Maharani
-File tugas RoboMind Maharani Ladja Puwa (K3521078)
+# Robomind-Task-Maharani
+File tugas Robomind Maharani Ladja Puwa (K3521078)
